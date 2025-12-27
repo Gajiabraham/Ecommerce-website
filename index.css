@@ -1,0 +1,57 @@
+.boy{
+    background-color: cadetblue;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    margin-top: 5px;
+}
+
+/* google css */
+
+.main{
+    margin-top: 100px;
+}
+
+
+.search {
+    display: block;
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    display: block;
+    width:800px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* flag css */
+
+.flag{
+    display: flex;
+    position:absolute;
+    top:2%;
+    width: 200px;
+    height: 100px;
+    left: 2%;
+    
+     
+}
+.green{
+    background-color: green;
+    height: 100px;
+}
+
+.white{
+    background-color: white;
+    height: 100px;
+}
+
+.green1{
+    background-color: green;
+    height: 100px;
+}
