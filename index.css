@@ -191,6 +191,13 @@
     font-weight: bold;
 }
 
-h1{
-    @font
-}
+  @font-face{
+        src: url("corleone.ttf");
+        font-family: corleone;
+    }
+
+    h2{
+        font-family: corleone;
+    }
+
+
