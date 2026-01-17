@@ -190,3 +190,7 @@
     border-radius: 4px;
     font-weight: bold;
 }
+
+h1{
+    @font
+}
